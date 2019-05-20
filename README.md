@@ -1,4 +1,4 @@
-This is an assignment for com1001(Java Programming). We learned about Object Oriented concepts such as Inheritance,
+This is an assignment for com1001(Java Programming). Learned about Object Oriented concepts such as Inheritance,
 Polymorphism, Exception handling, Abstract classes, Interfaces and Collections doing this project.
 Used SWING Graphics components.
 
